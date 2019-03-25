@@ -1,0 +1,4 @@
+# Python3 Virtual Environment
+venv
+# Intellij IDE files
+.idea
