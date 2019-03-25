@@ -21,7 +21,7 @@ The environment variable should be set with `GWAR_API_KEY`, e.g. from the comman
 
 Yes. 
 
-##How do I use it?
+## How do I use it?
 
 POST a JSON payload with the following elements:
 
